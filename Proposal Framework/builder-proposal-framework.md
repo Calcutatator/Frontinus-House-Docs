@@ -6,11 +6,9 @@ A standard of how a Frontinus House Builder Proposal should be submitted. Please
 ### Introduction
 Name or social handle of proposer: **[Name]**
 
-Ethereum Mainnet Address: **[0x71c…] (To receive funds)**
+Starknet Mainnet Address: **[0x71c…] (To receive funds)**
 
-ENS name (optional): **[please set as primary ENS]**
-
-Twitter handle (optional): **[@Handle]**
+Social Media handle (optional): **[@Handle]**
 
 Any relevant links/Websites (optional):
 
