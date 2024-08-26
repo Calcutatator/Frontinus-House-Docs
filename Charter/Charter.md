@@ -1,16 +1,16 @@
 # Frontinus House Charter
-### Frontinus and BibliothecaDAO
-The Frontinus House Charter is here to establish a framework in which Frontinus House can work with the BibliothecDAO. The aim of Frontinus House is to establish a way to incentivise teams to work in the BibliothecaDAO ecosystem, fleshing out a living Autonomous World and the infrastructure to maintain that.
+### Frontinus and BiblioDAO
+The Frontinus House Charter is here to establish a framework in which Frontinus House can work with the BiblioDAO. The aim of Frontinus House is to establish a way to incentivise teams to work in the BiblioDAO ecosystem, fleshing out a living Autonomous World and the infrastructure to maintain that.
 
-Frontinus House Charter is here to build within the constitution of BibliothecaDAO and follow the key aims of Autonomous Worlds - Valuing permissionless, open-source, interoperable and decentralised blockchain protocols.
+Frontinus House Charter is here to build within the constitution of BiblioDAO and follow the key aims of Autonomous Worlds - Valuing permissionless, open-source, interoperable and decentralised blockchain protocols.
 
 ### The Charter - Rules we must live by
 > Frontinus House is a public good
 
 An open-source credibly neutral platform for funding of builders within the Realms Autonomous World and Starknet Ecosystem. This relies on 3 components Frontinus House must adhere to:
--  Immutable onchain protocol
--  Permissionless access
--  Open-source nature
+-  Immutability
+-  Permissionless
+-  Open-source
   
 Frontinus House specialises within Autonomous Worlds and Fully Onchain Gaming but is not tied to funding within these worlds. Credible neutrality will allow to prop up any ecosystem.
 
@@ -18,7 +18,7 @@ Immutability - Frontinus House aims to be an incorruptible mechanism for funding
 
 Permissionless - Actors seeking to apply to grants or publish a grant can do so without authorisation.
 
-Opensource - BibliothecaDAO believes in opensource building and at all times will prompt builders to work within an opensource framework.
+Opensource - BiblioDAO believes in opensource building and at all times will prompt builders to work within an opensource framework.
 
 > Align builders with ecosystems
 
@@ -35,6 +35,3 @@ When builders apply for a grant within the Frontinus House Mechanism they **must
 -  Feedback: Builders should be open to receiving and responding to feedback on their proposals. They should be prepared to revise their proposals based on feedback from the the funding instigator.
 
 Proposals within Frontinus House will assume to be open-source unless explicitly notes within the builders proposal.
-
-
-
